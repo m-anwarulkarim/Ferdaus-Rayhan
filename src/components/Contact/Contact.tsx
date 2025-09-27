@@ -104,7 +104,7 @@ export default function Contact() {
               ইমেইল পাঠান
             </button>
             <div className="muted" style={{ fontSize: 13 }}>
-              টিপ: hello@example.com ইমেইলটি আপনার বন্ধুর ইমেইলে বদলে নিন।
+              টিপ: hello@example.com
             </div>
           </motion.form>
         </motion.div>
