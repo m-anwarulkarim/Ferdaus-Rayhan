@@ -16,7 +16,7 @@ export default function Footer() {
           viewport={{ once: true }}
         >
           <div className="muted">
-            © {new Date().getFullYear()} বন্ধুর নাম. সকল অধিকার সংরক্ষিত।
+            © {new Date().getFullYear()} Ferdaus ryhan. সকল অধিকার সংরক্ষিত।
           </div>
         </motion.div>
       </div>
